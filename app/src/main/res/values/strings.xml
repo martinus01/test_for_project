@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="tab_text_1">Launch</string>
+    <string name="tab_text_2">Fusée</string>
+    <string name="tab_text_3">salue</string>
+</resources>
